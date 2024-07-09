@@ -16,7 +16,7 @@ The Student Management System is designed to manage student records efficiently 
 ## Technologies Used
 
 - **C++**: The programming language used to develop this system.
-- **Programming Fundamentals**: Concepts such as functions, loops, conditionals, and file handling are used extensively.
+- **Programming Fundamentals**: Concepts such as functions, loops, conditionals, and arrays are used extensively.
 
 ## Getting Started
 
