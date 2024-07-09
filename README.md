@@ -1,6 +1,3 @@
-Here is a sample README file for your Student Management System project:
-
----
 
 # Student Management System
 
